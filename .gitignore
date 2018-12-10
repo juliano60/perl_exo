@@ -1,2 +1,6 @@
 ## ignore swp files
 *.swp
+
+## ignore txt files
+*.txt
+
